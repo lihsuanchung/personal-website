@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "personal-website",
+    "section": "",
+    "text": "How does ChatGPT operate behind the scenes? “\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 19, 2024\n\n\nLiHsuan\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 16, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 13, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/test/CopyOfindex.html",
+    "href": "posts/test/CopyOfindex.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/test.html",
+    "href": "posts/test.html",
+    "title": "How does ChatGPT operate behind the scenes? ”",
+    "section": "",
+    "text": "This article is from personal blog, titled” How does ChatGPT work? As explained by the ChatGPT team”, available online via the blog website. It presents the content of an interview in a blog format and explains how ChatGPT works in a step-by-step manner. This article explains the process by which OpenAI developed ChatGPT, and the steps taken to achieve its intended effects. These five main steps—Input, Tokenization, create embeddings, multiply embeddings by model weights, and sample a prediction—describe the process by which ChatGPT generates responses after you ask a question. The first two paragraphs provide background information, including the reasons for interviewing engineers and why this engineer was chosen as the interviewer. The Lede in this article is clear and identical to the title: “How does ChatGPT work?” It straightforwardly informs readers about the content of the article without excessive embellishment. The summary of the story is presented in the middle of the article, highlighting that the core processes of ChatGPT involve input, tokenization, creating embeddings, multiplying embeddings by model weights, and sampling predictions. Examples are provided for each step to explain every action, making it easier for readers to understand. The main result is located near the end of the article. “ChatGPT is “merely” pulling out some “coherent thread of text” from the “statistics of conventional wisdom” that it’s accumulated. But it’s amazing how human-like the results are.”” The conclusion also echoes the question posed in the title."
+  }
+]
